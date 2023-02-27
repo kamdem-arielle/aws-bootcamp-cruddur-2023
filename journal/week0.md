@@ -13,4 +13,4 @@ During week0 I have done the following assignments.
 ### 5. Create a billing alarm
 
 ### 6. Create a budget
-![all text](_docs/assets/aws-budget.png)
+![_docs/assets/aws-budget.png](https://github.com/kamdem-arielle/aws-bootcamp-cruddur-2023/blob/a5f02f35232a28cc7dbfb5352543aede7791c5e8/_docs/assets/aws-budget.png)
