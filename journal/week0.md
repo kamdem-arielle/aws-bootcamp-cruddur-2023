@@ -25,3 +25,6 @@ Created of a billing alarm using the aws cli
 ### 6. Create a budget
 Created a budget using the aws cli.
 ![_docs/assets/aws-budget.png](https://github.com/kamdem-arielle/aws-bootcamp-cruddur-2023/blob/a5f02f35232a28cc7dbfb5352543aede7791c5e8/_docs/assets/aws-budget.png)
+
+### 7.Create logical diagram for cruddur web app
+![lucid chart logical diagram](https://github.com/kamdem-arielle/aws-bootcamp-cruddur-2023/blob/e97bfa61218c38a8953d2bcd6503fdc14b7b8da9/_docs/assets/Cloud%20Architecture.png)
